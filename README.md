@@ -1,4 +1,4 @@
-# Creating a new repository on our local machine with git init.
+# Creating a new repository on our local machine with **git init**.
 # Connecting our local repository to GitHub with git remote add.
 # Renaming our branch to main.
 # Staging and committing our changes with git add and git commit.
